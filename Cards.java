@@ -3,9 +3,7 @@ import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
 
-/**
- * Created by danie on 05/11/2016.
- */
+
 public class Cards {
 
     public static void main(String[] args) throws IOException {
